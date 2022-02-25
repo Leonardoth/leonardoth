@@ -6,6 +6,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoth&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <br>
+   <p align="center">
+  <img src="https://img.shields.io/badge/Age-26-blue" />
+  <img src="https://img.shields.io/badge/Focus-Front%20End-blue" />
+  <img src="https://img.shields.io/badge/Lives-Brasil-blue" />
+  <img src="https://img.shields.io/badge/Languages-Portuguese%20%26%20English-blue" />
+</p>
 <div align='center'>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,12 +26,12 @@
 <a target="_blank" href = "https://www.linkedin.com/in/leonardo-matheus-b8a2751a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='Linkedin'></a>
 </div>
   <br>
-  
+<!--   
 - 🔭 Atualmente busco trabalho como front-end
   
 - 🌱 Estudando sobre:
   - React
-  - Styled-Components
+  - Styled-Components -->
 
 <!--
 **Leonardoth/leonardoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
