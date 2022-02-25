@@ -1,13 +1,13 @@
 ### Olá, sou o Leonardo Matheus! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-  
+  <br>
    <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonardoth&label=Views&color=57BCDA&style=flat"
+  <img src="https://komarev.com/ghpvc/?username=leonardoth&label=Views&color=57BCDA&style=for-the-badge"
     alt="leonardoth" /> 
-  <img src="https://img.shields.io/badge/Age-26-57BCDA" />
-  <img src="https://img.shields.io/badge/Focus-Front%20End-57BCDA" />
-  <img src="https://img.shields.io/badge/From-Brasil-57BCDA" />
-  <img src="https://img.shields.io/badge/Languages-Portuguese%20%26%20English-57BCDA" />
+  <img src="https://img.shields.io/badge/Age-26-57BCDA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Front%20End-57BCDA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/From-Brasil-57BCDA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Languages-Portuguese%20%26%20English-57BCDA?style=for-the-badge" />
   <br>
   
 </p>
