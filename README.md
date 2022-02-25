@@ -1,17 +1,20 @@
 ### Olá, sou o Leonardo Matheus! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardoth&label=Profile%20views&color=527c9d&style=flat"
+    alt="adam-pw" /> 
+  </p>
 <br>
 <div align="center">
   <a href="https://github.com/leonardoth">
-  <img height="150em" width='40%' src="https://github-readme-stats.vercel.app/api?username=leonardoth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="150em" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoth&theme=dracula&hide_border=true" />
-  <img height="150em" width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoth&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  <img height="150em" width='40%' src="https://github-readme-stats.vercel.app/api?username=leonardoth&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="150em" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoth&theme=city-lights&hide_border=true" />
+  <img height="150em" width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoth&layout=compact&langs_count=7&theme=city_lights&hide_border=true"/>
 </div>
   <br>
    <p align="center">
-  <img src="https://img.shields.io/badge/Age-26-blue" />
-  <img src="https://img.shields.io/badge/Focus-Front%20End-blue" />
-  <img src="https://img.shields.io/badge/Lives-Brasil-blue" />
-  <img src="https://img.shields.io/badge/Languages-Portuguese%20%26%20English-blue" />
+  <img src="https://img.shields.io/badge/Age-26-527c9d" />
+  <img src="https://img.shields.io/badge/Focus-Front%20End-527c9d" />
+  <img src="https://img.shields.io/badge/Lives-Brasil-527c9d" />
+  <img src="https://img.shields.io/badge/Languages-Portuguese%20%26%20English-527c9d" />
 </p>
 <div align='center'>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
