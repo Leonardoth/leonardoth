@@ -1,9 +1,10 @@
-### Olá, sou o Leonardo Matheus! 👋
-
+### Olá, sou o Leonardo Matheus! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<br>
 <div align="center">
   <a href="https://github.com/leonardoth">
-  <img height="150em" width='40%' src="https://github-readme-stats.vercel.app/api?username=leonardoth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoth&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" width='40%' src="https://github-readme-stats.vercel.app/api?username=leonardoth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="150em" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoth&theme=dracula&hide_border=true" />
+  <img height="150em" width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoth&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </div>
   <br>
    <p align="center">
